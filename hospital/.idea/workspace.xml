@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d69c579e-7d7c-4d40-8bdc-8059a85535b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-requests/operation-service/do-operation.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-requests/operation-service/get-operations.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-requests/operation-service/undo-operation.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/OperationServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/controller/OperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/dto/OperationRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/dto/OperationResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/exception/DuplicateIdempotencyKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/exception/OperationTypeForPatientNotFoundToUndone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/exception/RequestAllreadyCompleted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/mapper/OperationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/model/OperationRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/model/OperationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/model/OperationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/repository/OperationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/java/com/h/operationservice/service/OperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operation-service/src/test/java/com/h/operationservice/OperationServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTTP Request" />
+        <option value="Class" />
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;georstar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/georstar/hospital.git&quot;,
+    &quot;accountId&quot;: &quot;0d5ad8ab-2dbf-467f-ab8e-dd37767a4010&quot;
+  }
+}</component>
+  <component name="HttpClientOnboardingState"><![CDATA[{
+  "isOnboardingCommentShown": true
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="36ylT4Q22L1N2IGvByfoqpGOF0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.do-operation | POST request to do operation.executor": "Run",
+    "HTTP Request.get-operations | GET request to get all operations.executor": "Run",
+    "HTTP Request.undo-operation | POST request to undo operation.executor": "Run",
+    "Maven.operation-service [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.OperationServiceApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/georstar/MyProjects/assignment/hospital/hospital/api-requests/operation-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api-requests/operation-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="do-operation | POST request to do operation" value="STOPPED" />
+              <entry key="get-operations | GET request to get all operations" value="STOPPED" />
+              <entry key="undo-operation | POST request to undo operation" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OperationServiceApplication">
+    <configuration name="do-operation | POST request to do operation" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/operation-service/do-operation.http" executionIdentifier="POST request to do operation" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="get-operations | GET request to get all operations" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/operation-service/get-operations.http" executionIdentifier="GET request to get all operations" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="undo-operation | POST request to undo operation" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/operation-service/undo-operation.http" executionIdentifier="POST request to undo operation" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="OperationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="operation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.h.operationservice.OperationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.undo-operation | POST request to undo operation" />
+        <item itemvalue="HTTP Request.do-operation | POST request to do operation" />
+        <item itemvalue="HTTP Request.get-operations | GET request to get all operations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69c579e-7d7c-4d40-8bdc-8059a85535b7" name="Changes" comment="" />
+      <created>1765986697658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765986697658</updated>
+      <workItem from="1765986699230" duration="7786000" />
+      <workItem from="1766008299256" duration="16892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
